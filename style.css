@@ -1,5 +1,7 @@
 main{
     text-align: center;
+    width:70%;
+    margin:20px auto;
 }
 .social-icons i{
     font-size:20px;
@@ -7,8 +9,19 @@ main{
 }
 p{
     color:gray;
+   
   
+}
+.description{
+    margin-top:25px;
 }
 .title{
     font-style: italic;
+}
+.employee{
+    float:left;
+    width:33.3%
+}
+.clearfix{
+    clear:left;
 }
